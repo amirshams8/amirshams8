@@ -19,7 +19,7 @@
 
 ### what i'm actually building
 
-**JarvisMinI** — a two-phone Android agent system. Phone A runs a Python agent loop with ADB, OCR, and multi-AI routing (Gemini → ChatGPT → Claude). Phone B runs a Claude bridge. The whole thing orchestrates real UI automation: opening apps, reading screens, copying and pasting, summarising — no emulator, no desktop, just two physical phones and Termux.
+**Agent J** — a two-phone Android agent system. Phone A runs a Python agent loop with ADB, OCR, and multi-AI routing (Gemini → ChatGPT → Claude). Phone B runs a Claude bridge. The whole thing orchestrates real UI automation: opening apps, reading screens, copying and pasting, summarising — no emulator, no desktop, just two physical phones and Termux.
 
 > 30+ sessions in. CoordScaler for device-agnostic coordinates. n8n orchestration layer. Self-heal pipeline. Still not done.
 
