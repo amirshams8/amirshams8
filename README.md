@@ -43,7 +43,7 @@ Runtime      Termux  GitHub Actions  Physical Android hardware
 
 ### how i work
 
-No MacBook. No cloud VM. Everything runs on Android — Termux for backend, physical devices for agent testing. CI/CD through GitHub Actions. Long-running projects tracked across 30+ AI-assisted sessions with a consistent file output convention (`//===== FILE:` headers + automated watcher deployment).
+No MacBook. No cloud VM. Everything runs on Android — Termux for backend, physical devices for agent testing. CI/CD through GitHub Actions.
 
 Self-directed. No team.
 
